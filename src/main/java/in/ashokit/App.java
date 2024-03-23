@@ -14,5 +14,6 @@ public class App
         String s="hi";
 
         System.out.println( "Hello World!" );
+		System.out.println("Branch Merging");
     }
 }
